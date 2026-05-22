@@ -10,8 +10,8 @@ Focus: LLM workflows, agentic systems, Telegram bots, Python and TypeScript back
 Telegram RAG assistant for PDF, DOCX, and TXT documents. Bilingual UI in 7 languages, multilingual embeddings, OpenRouter-routed LLM with citation enforcement, single-file SQLite plus sqlite-vec storage.
 Live: [@assistantdocumentbot](https://t.me/assistantdocumentbot)
 
-**[pulse-saas-dashboard](https://github.com/kudnever/pulse-saas-dashboard)**
-Full-stack B2B SaaS analytics dashboard. React with TanStack Router and Query, Node.js plus Express, PostgreSQL with Drizzle ORM, WebSocket-driven live metrics, JWT authentication with RBAC.
+**[Revenue Metrics Console](https://github.com/kudnever/revenue-metrics-console)**
+Internal revenue analytics tool. React with TanStack Router and Query, Node.js plus Express, PostgreSQL with Drizzle ORM, WebSocket-driven live metrics, JWT authentication with RBAC.
 
 ### Stack
 
